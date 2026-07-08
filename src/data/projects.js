@@ -98,18 +98,18 @@ const projects = [
         //     display: " hidden group-hover:flex"
         // }
     //},
-    {
-        img: Pixel,
-        name: "Pixel Canvas",
-        demo: "https://keinapraisy386-blip.github.io/PIXEL_ART/",
-        code: "https://github.com/keinapraisy386-blip/PIXEL_ART",
-        description: "Experimenting with pixel art interactions.",
-        style: {
-            shadow: "shadow-[#011F3F]",
-            cover: "from-[#011F3F]",
-            display: " hidden group-hover:flex"
-        }
-    },
+    // {
+    //     img: Pixel,
+    //     name: "Pixel Canvas",
+    //     demo: "https://keinapraisy386-blip.github.io/PIXEL_ART/",
+    //     code: "https://github.com/keinapraisy386-blip/PIXEL_ART",
+    //     description: "Experimenting with pixel art interactions.",
+    //     style: {
+    //         shadow: "shadow-[#011F3F]",
+    //         cover: "from-[#011F3F]",
+    //         display: " hidden group-hover:flex"
+    //     }
+    // },
     // {
     //     img: Todo_App,
     //     name: "TODO APP",
