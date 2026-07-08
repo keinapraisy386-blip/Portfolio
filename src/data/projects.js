@@ -3,7 +3,7 @@ import Quiz from "../assets/Projects/Quiz.png"
 import Autoencoder from "../assets/Projects/Autoencoder.png"
 import Multithreading from "../assets/Projects/Multithreading.png"
 import Stepdiscount from "../assets/Projects/Stepdiscount.png"
-//import Pixel from "../assets/Projects/Pixel.png"
+import Pixel from "../assets/Projects/Pixel.png"
 import FAC from "../assets/Projects/FAC.png"
 import Simon_Game from "../assets/Projects/Simon_Game.png"
 import Todo_App from "../assets/Projects/Todo_App.png"
@@ -98,18 +98,18 @@ const projects = [
         //     display: " hidden group-hover:flex"
         // }
     //},
-    // {
-    //     img: Pixel,
-    //     name: "Pixel Canvas",
-    //     demo: "https://keinapraisy386-blip.github.io/PIXEL_ART/",
-    //     code: "https://github.com/keinapraisy386-blip/PIXEL_ART",
-    //     description: "Experimenting with pixel art interactions.",
-    //     style: {
-    //         shadow: "shadow-[#011F3F]",
-    //         cover: "from-[#011F3F]",
-    //         display: " hidden group-hover:flex"
-    //     }
-    // },
+    {
+        img: Pixel,
+        name: "Pixel Canvas",
+        demo: "https://keinapraisy386-blip.github.io/PIXEL_ART/",
+        code: "https://github.com/keinapraisy386-blip/PIXEL_ART",
+        description: "Experimenting with pixel art interactions.",
+        style: {
+            shadow: "shadow-[#011F3F]",
+            cover: "from-[#011F3F]",
+            display: " hidden group-hover:flex"
+        }
+    },
     // {
     //     img: Todo_App,
     //     name: "TODO APP",
