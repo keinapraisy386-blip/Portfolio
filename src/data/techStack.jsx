@@ -1,49 +1,47 @@
-import  { Git, VSCode, Terraform, AWS, Jenkins, Linux, MERN, TailwindCSS, Docker } from "../components/SkilIcons"
-
+import {
+  HTML,
+  CSS,
+  JS,
+  Java,
+  C,
+  Python,
+  Git,
+  VSCode,
+} from "../components/SkilIcons";
 
 const TechStack = [
-    {
-        icon: <Docker width={32} height={32} />,
-        name: "Docker",
-        
-    },
-    {
-        icon: <AWS width={35} height={35} />,
-        name: "AWS",
-        
-    },
-    {
-        icon: <Terraform width={32} height={32} />,
-        name: "Terraform",
-
-    },
-    {
-        icon: <Git width={30} height={30} />,
-        name: "Git",
-
-    },
-    {
-        icon: <Jenkins width={35} height={35} />,
-        name: "Jenkins",
-
-    },
-    {
-        icon: <VSCode width={30} height={32} />,
-        name: "VsCode",
-    },
-    {
-        icon: <Linux width={35} height={35} />,
-        name: "Linux",
-    },
-    {
-        icon: <MERN width={35} height={35} />,
-        name: "MERN Stack",
-    },
-    {
-        icon: <TailwindCSS width={30} height={30} />,
-        name: "Tailwind CSS",
-    },
-]
+  {
+    icon: <HTML width={32} height={32} />,
+    name: "HTML",
+  },
+  {
+    icon: <CSS width={32} height={32} />,
+    name: "CSS",
+  },
+  {
+    icon: <JS width={32} height={32} />,
+    name: "JavaScript",
+  },
+  {
+    icon: <Java width={32} height={32} />,
+    name: "Java",
+  },
+  {
+    icon: <C width={32} height={32} />,
+    name: "C",
+  },
+  {
+    icon: <Python width={32} height={32} />,
+    name: "Python",
+  },
+  {
+    icon: <Git width={32} height={32} />,
+    name: "Git",
+  },
+  {
+    icon: <VSCode width={32} height={32} />,
+    name: "VS Code",
+  },
+];
 
 export default TechStack;
-

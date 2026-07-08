@@ -36,27 +36,27 @@ const About = () => {
             <h3 className="text-2xl xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold md:py-2">
               Hi, I'm{" "}
               <span className="text-cyan-500 block xs:inline">
-                Dhawal Vijayvargiya
+                Keina Praisy A
               </span>
             </h3>
           </AnimatedWrapper>
           <div className="text-gray-400 py-4 space-y-2 md:space-y-2 md:pt-8 lg:pt-12 font-semibold text-justify">
             <AnimatedWrapper>
               <p className="leading-tight">
-                Full Stack and DevOps Enthusiast, based in India.
-                Currently working as Jr. DevOps Engineer @ Spark18.
+                Full Stack Enthusiast, based in India.
+                Currently pursuing Bachelor degree in Computer Science and Engineering.
               </p>
             </AnimatedWrapper>
             <AnimatedWrapper>
               <p className="leading-tight">
                 I also love to make beautiful Web Applications with technologies
-                like MERN Stack, NextJs.
+                like React.
               </p>
             </AnimatedWrapper>
             <AnimatedWrapper>
               <p className="leading-tight">
-                Currently pursuing Master's in Computer Applications at
-                Geetanjali Institute of Technical Studies, Udaipur, (Rajasthan).
+                Currently pursuing Bachelor's in Computer Science and Engineering at
+                SRM TRP Engineering College, Tiruchirapalli, India.
               </p>
             </AnimatedWrapper>
           </div>

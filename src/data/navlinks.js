@@ -11,10 +11,10 @@ const navLinks = [
         id: 3,
         link: "Projects"
     },
-    {
-        id: 4,
-        link: "Skills"
-    },
+    // {
+    //     id: 4,
+    //     link: "Skills"
+    // },
     // {
     //     id: 5,
     //     href:"",

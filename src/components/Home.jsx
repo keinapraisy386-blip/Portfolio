@@ -5,7 +5,7 @@ import { Link } from "react-scroll";
 import AnimatedWrapper from "./ui/AnimatedWrapper";
 
 import { ArrowDown } from "./Icons";
-import Avatar from "../assets/Avatars/Avatar.svg";
+import Avatar from "../assets/Avatars/Avatar.jpg";
 import contactInfo from "../data/contactInfo";
 
 const Home = () => {
@@ -45,7 +45,7 @@ const Home = () => {
               <span className="block">Hi There, </span>
               <span>I'm </span>
               <span className="text-transparent bg-gradient-to-br from-cyan-300 to-blue-600 bg-clip-text">
-                Dhawal
+                Keina
               </span>
             </h1>
           </AnimatedWrapper>

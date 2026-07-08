@@ -13,12 +13,12 @@ const Footer = () => {
           <div className="w-full sm:w-3/5 lg:w-2/5 pr-2">
             <AnimatedWrapper>
               <h3 className="text-white text-[1.75rem] font-bold pb-2">
-                Dhawal Vijayvargiya
+                Keina Praisy A
               </h3>
               <p className="text-lg text-cyan-400 pb-5">FullStack Developer</p>
-              <p>Thank you for visiting DevFolio.</p>
+              <p>Thank you for visiting my E-Portfolio.</p>
               <p>You can connect with me over socials.</p>
-              <p>Have any Suggestions. Type it above. </p>
+              <p>Have any Suggestions, type it above. </p>
             </AnimatedWrapper>
           </div>
           <div className="w-full xs:w-2/5 mt-8 sm:w-2/5 sm:mt-0 lg:w-[30%] sm:pl-20 lg:pl-12 justify-start">
@@ -50,12 +50,12 @@ const Footer = () => {
               <div className="flex flex-col sm:flex-row lg:flex-col  gap-5 xs:gap-10 sm:gap-5 md:gap-10 justify-between">
                 <div className="text-[0.9rem] font-advanced">
                   <p className="flex items-center gap-3 mb-1">
-                    <GMail /> vijaydhawal9001@gmail.com
+                    <GMail /> keina.praisy386@gmail.com
                   </p>
                   <p className="flex items-center gap-3 ">
                     {" "}
                     <Map />
-                    <span className="pt-1">Udaipur, Rajasthan, India</span>
+                    <span className="pt-1">Nagercoil, Tamil Nadu, India</span>
                   </p>
                 </div>
                 <ul className="flex items-center  gap-5 md:gap-8 lg:gap-4 justify-start ">
